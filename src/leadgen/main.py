@@ -3,7 +3,7 @@ import sys
 import warnings
 import os
 from datetime import datetime
-from leadgen.crew import Leadgen
+from crew import Leadgen
 
 warnings.filterwarnings("ignore", category=SyntaxWarning, module="pysbd")
 
